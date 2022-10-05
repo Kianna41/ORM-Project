@@ -8,5 +8,9 @@
 5. When the user test API POST, PUT, and DELETE routes in Insomnia Core, the user is able to successfully create, update, and delete data in my database.
 
 
-Mock-UP:
-https://youtu.be/bRmtZ0JWhvI
+Mock-Up:
+
+Link to Youtube: https://youtu.be/bRmtZ0JWhvI
+
+Link to GitHub Repo: https://github.com/Kianna41/ORM-Project
+
