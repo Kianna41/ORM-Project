@@ -10,7 +10,10 @@
 
 Mock-Up:
 
+
+
+<img width="1303" alt="Screen Shot 2022-10-05 at 7 36 42 PM" src="https://user-images.githubusercontent.com/107634328/194182719-d1e9c980-c0b0-4b74-96cd-0fa996f0213f.png">
+
 Link to Youtube: https://youtu.be/bRmtZ0JWhvI
 
 Link to GitHub Repo: https://github.com/Kianna41/ORM-Project
-
